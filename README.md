@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou Vitor, estou em fase inicial da minha jornada como desenvolvedor e atualmente meu foco está em aprender e crescer.
+Bem-vindo ao meu perfil do GitHub! Sou Vitor, estou iniciando minha jornada como desenvolvedor e atualmente meu foco está em aprender e crescer criando projetos e aplicando meu conhecimento de forma prática.
 
 ## Sobre Mim
 
