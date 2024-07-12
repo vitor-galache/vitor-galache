@@ -15,6 +15,6 @@ estou aberto a desafios e ansioso para contribuir em equipe.
 
 ## Linguagens de Programação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galachee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-galache&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
