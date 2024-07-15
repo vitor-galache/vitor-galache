@@ -35,8 +35,6 @@ estou aberto a desafios e ansioso para contribuir em equipe.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-## Linguagens de Programação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-galache&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
