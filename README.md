@@ -9,9 +9,15 @@ estou aberto a desafios e ansioso para contribuir em equipe.
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/vitor-galache
-
-- Email: vitorgalache5@gmail.com
+<div align="left">
+ - Email: vitorgalache5@gmail.com
+</div>
+<br>
+<div align="left">
+  <a href="https://www.linkedin.com/in/vitor-galache/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## Tecnologias 
 
