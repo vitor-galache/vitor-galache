@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Vitor, estou iniciando minha jornada como
 
 ## Sobre Mim
 
-Estou procurando oportunidades de trabalho ou projetos que me proporcionem uma experiência prática para acelerar meu aprendizado em C# e em toda plataforma .NET,
+Estou procurando oportunidades de trabalho ou projetos que me proporcionem uma experiência prática para acelerar meu aprendizado em C# e em todo ecossistema .NET,
 estou aberto a desafios e ansioso para contribuir em equipe.
 
 ## Contato
