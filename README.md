@@ -35,7 +35,13 @@ Procuro oportunidades de trabalho ou projetos que me proporcionem uma experiênc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+ 
+ ### Linguagens Mais Usadas
+  <div align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-galache&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
 </div>
+
 
 
 
