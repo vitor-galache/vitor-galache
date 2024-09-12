@@ -5,10 +5,9 @@ Bem-vindo ao meu perfil do GitHub! Sou o Vitor, iniciando minha carreira como de
 Venho adquirindo experiência prática e aplicando meus conhecimentos em projetos reais, com maior foco no back-end mas também possuo conhecimentos básicos de front-end. 
 
 Hoje, com uma base sólida na linguagem C#, estou confortável em enfrentar desafios complexos e colaborar em equipes, sempre buscando aprender e melhorar.
-## Sobre Mim
 
-Estou procurando oportunidades de trabalho ou projetos que me proporcionem uma experiência prática para acelerar meu aprendizado em C# e em todo ecossistema .NET,
-estou aberto a desafios e ansioso para contribuir em equipe.
+## Objetivo
+Procuro oportunidades de trabalho ou projetos que me proporcionem uma experiência prática para acelerar minha evolução como desenvolvedor .NET.
 
 ## Contato
 
