@@ -1,7 +1,9 @@
 # Olá!  👋
 
 Bem-vindo ao meu perfil do GitHub! Sou o Vitor, iniciando minha carreira como desenvolvedor com foco em tecnologias .NET, atualmente aprimorando minhas habilidades e trabalhando em projetos que envolvem C#, ASP.NET Core (APIs), Blazor e Entity Framework.
+
 Venho adquirindo experiência prática e aplicando meus conhecimentos em projetos reais, com maior foco no back-end mas também possuo conhecimentos básicos de front-end. 
+
 Hoje, com uma base sólida na linguagem C#, estou confortável em enfrentar desafios complexos e colaborar em equipes, sempre buscando aprender e melhorar.
 ## Sobre Mim
 
